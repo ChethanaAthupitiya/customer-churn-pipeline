@@ -1,0 +1,34 @@
+
+--- logistic_regression.joblib ---
+Accuracy: 0.7854
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.83      0.89      0.86      1033
+           1       0.62      0.49      0.55       374
+
+    accuracy                           0.79      1407
+   macro avg       0.73      0.69      0.70      1407
+weighted avg       0.77      0.79      0.78      1407
+
+Confusion Matrix:
+[[920 113]
+ [189 185]]
+
+--- random_forest.joblib ---
+Accuracy: 0.7882
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.83      0.90      0.86      1033
+           1       0.63      0.48      0.55       374
+
+    accuracy                           0.79      1407
+   macro avg       0.73      0.69      0.70      1407
+weighted avg       0.78      0.79      0.78      1407
+
+Confusion Matrix:
+[[930 103]
+ [195 179]]
