@@ -29,4 +29,33 @@ This project includes data preprocessing, model training, evaluation, and deploy
 ---
 
 ## 📂 Project Structure
+customer-churn-pipeline/
+│
+├── app/
+│   └── main.py              # FastAPI application
+│
+├── src/
+│   ├── preprocessing.py     # Data preprocessing
+│   ├── training.py         # Model training
+│   ├── train_pipeline.py   # Pipeline training
+│   └── evaluation.py       # Model evaluation
+│
+├── artifacts/
+│   ├── churn_pipeline.joblib
+│   ├── preprocessor.joblib
+│   └── columns.joblib
+│
+├── data/
+├── models/
+├── reports/
+├── notebooks/
+│
+└── README.md
+```
+
+
+
+
+
+
 
