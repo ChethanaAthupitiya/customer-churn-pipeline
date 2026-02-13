@@ -29,6 +29,8 @@ This project includes data preprocessing, model training, evaluation, and deploy
 ---
 
 ## 📂 Project Structure
+
+```
 customer-churn-pipeline/
 │
 ├── app/
@@ -36,9 +38,9 @@ customer-churn-pipeline/
 │
 ├── src/
 │   ├── preprocessing.py     # Data preprocessing
-│   ├── training.py         # Model training
-│   ├── train_pipeline.py   # Pipeline training
-│   └── evaluation.py       # Model evaluation
+│   ├── training.py          # Model training
+│   ├── train_pipeline.py    # Pipeline training
+│   └── evaluation.py        # Model evaluation
 │
 ├── artifacts/
 │   ├── churn_pipeline.joblib
@@ -52,10 +54,6 @@ customer-churn-pipeline/
 │
 └── README.md
 ```
-
-
-
-
 
 
 
