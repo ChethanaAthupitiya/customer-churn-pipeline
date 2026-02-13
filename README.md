@@ -156,7 +156,7 @@ Electrical & Electronic Engineering Graduate
 Interested in Machine Learning & Data Science  
 
 GitHub: https://github.com/ChethanaAthupitiya
-
+LinkedIn: https://www.linkedin.com/in/chethana-athupitiya-7609b8275/
 ---
 
 ## ⭐ Future Improvements
